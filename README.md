@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sathwik</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align-"right" alt="Ccoding" width-"400" scr="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/">
+<img align-"right" alt="Ccoding" width-"400" scr="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/](https://github.com/Sathwik61/Sathwik61/blob/main/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwik61&label=Profile%20views&color=0e75b6&style=flat" alt="sathwik61" /> </p>
 
