@@ -32,16 +32,16 @@ I help businesses and startups turn ideas into scalable digital products.
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-`Java` `JavaScript` `C` `SQL`
+`Java` `JavaScript` `Go` `Python` `C`
 
 ### 🎨 Frontend
 `React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3`
 
 ### ⚙ Backend
-`Node.js` `Express.js` `Spring Boot` `MongoDB` `PostgreSQL`
+`Java` `Node.js` `GoLang` `Spring Boot` `API Security` `MongoDB` `PostgreSQL`
 
 ### ☁ Tools & DevOps
-`Git` `GitHub` `Docker` `Postman` `Linux`
+`Git` `GitHub` `Docker` `Jenkins` `Actions` `Linux` `VM` `Kubernetes` 
 
 ## 🚀 Selected Projects
 
