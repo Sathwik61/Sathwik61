@@ -1,29 +1,145 @@
 ![logo](https://github.com/Sathwik61/Sathwik61/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Sathwik</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<!-- <img align-"right" alt="Ccoding" width-"400" scr="[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/](https://github.com/Sathwik61/Sathwik61/blob/main/giphy.webp)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"> -->
+<h1 align="center">Hi 👋, I'm Sathwik Acharya</h1>
+<h3 align="center">🚀 Freelance Full Stack Developer | Building Scalable & Production-Ready Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwik61&label=Profile%20views&color=0e75b6&style=flat" alt="sathwik61" /> </p>
-
-- 🔭 I’m currently working on **Live Messenger**
-
-- 🌱 I’m currently learning **NextJs,React**
-
-- 📫 How to reach me **sathwikacharya61@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathwik-acharya-647784245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathwik-acharya-647784245/" height="30" width="40" /></a>
-<a href="https://instagram.com/sathwik_acharya61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathwik_acharya61" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sathwikacharya61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathwikacharya61/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:sathwikacharya61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/sathwik-acharya-647784245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/sathwikacharya61/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik61&show_icons=true&locale=en&layout=compact" alt="sathwik61" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathwik61&show_icons=true&locale=en" alt="sathwik61" /></p>
+- 💼 Freelance Software Developer
+- 🔥 Specialized in Full Stack Web Development
+- 🏗 Building scalable backend systems & modern frontend applications
+- 🌱 Currently working with **Spring Boot, Microservices & MERN Stack**
+- 🎯 Focused on writing clean, maintainable & production-grade code
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik61&" alt="sathwik61" /></p>
+I help businesses and startups turn ideas into scalable digital products.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Java` `JavaScript` `C` `SQL`
+
+### 🎨 Frontend
+`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3`
+
+### ⚙ Backend
+`Node.js` `Express.js` `Spring Boot` `MongoDB` `PostgreSQL`
+
+### ☁ Tools & DevOps
+`Git` `GitHub` `Docker` `Postman` `Linux`
+
+## 🚀 Selected Projects
+
+### 🔹 Live Messenger – Scalable Real-Time Chat System
+A production-ready real-time messaging platform with secure authentication and event-driven communication.
+
+**Tech:** Node.js, Express, Socket.io, MongoDB, JWT  
+**Highlights:**  
+- Real-time bidirectional messaging  
+- Room-based architecture  
+- Secure JWT authentication  
+- Optimized backend event handling  
+
+---
+
+### 🔹 Microservices E-Commerce Backend
+Designed a scalable backend system using service-based architecture with independent database layers.
+
+**Tech:** Spring Boot, PostgreSQL, JWT  
+**Highlights:**  
+- Authentication Service  
+- Product & Order Services  
+- Database separation strategy  
+- RESTful API architecture  
+- Designed for horizontal scaling  
+
+---
+
+### 🔹 Real-Time Order Management System
+A restaurant/hotel management platform that routes live orders directly to kitchen dashboards.
+
+**Tech:** React, Node.js, Socket.io, MongoDB  
+**Highlights:**  
+- Live order tracking  
+- Role-based dashboard (Admin/Kitchen)  
+- Status management system  
+- Real-time updates via WebSockets  
+
+---
+
+### 🔹 Custom DNS Server (MERN)
+Built a custom DNS resolution system with backend domain mapping logic.
+
+**Tech:** MongoDB, Express, React, Node.js  
+**Highlights:**  
+- Custom domain resolution logic  
+- Admin control panel  
+- REST API-based architecture  
+- Scalable backend structure  
+
+---
+
+### 🔹 Secure File Sharing Platform
+A one-time access file sharing system with temporary download links and expiration logic.
+
+**Tech:** MERN Stack  
+**Highlights:**  
+- One-time download links  
+- Expiry & metadata tracking  
+- Secure storage handling  
+- Clean responsive UI  
+
+---
+
+### 🔹 Smart Research Filtering Platform
+An academic platform that filters unverified content and scores research papers using custom logic.
+
+**Tech:** MERN Stack  
+**Highlights:**  
+- Content validation logic  
+- Research scoring algorithm  
+- Integrated document editor  
+- Clean UI/UX design  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sathwik61&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
+  <img src="https://streak-stats.demolab.com?user=sathwik61&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwik61&layout=compact&theme=tokyonight&hide_border=true"/> -->
+</p>
+
+---
+
+## 🤝 Open For
+
+- 🚀 Freelance Projects
+- 💼 Contract-Based Work
+- 🤝 Technical Collaborations
+- 🏗 Backend System Architecture Projects
+
+📩 Contact: **sathwikacharya61@gmail.com**
+
+---
+
+⭐ If you find my work interesting, feel free to connect or collaborate.
