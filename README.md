@@ -48,7 +48,7 @@ I help businesses and startups turn ideas into scalable digital products.
 ### 🔹 Live Messenger – Scalable Real-Time Chat System
 A production-ready real-time messaging platform with secure authentication and event-driven communication.
 
-**Tech:** Node.js, Express, Socket.io, MongoDB, JWT  
+**Tech:** Java, SpringBoot, WebSocket, MongoDB, JWT  
 **Highlights:**  
 - Real-time bidirectional messaging  
 - Room-based architecture  
